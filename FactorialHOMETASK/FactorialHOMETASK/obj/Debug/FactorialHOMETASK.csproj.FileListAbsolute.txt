@@ -1,0 +1,7 @@
+C:\Users\1686708\source\repos\FactorialHOMETASK\FactorialHOMETASK\bin\Debug\FactorialHOMETASK.exe.config
+C:\Users\1686708\source\repos\FactorialHOMETASK\FactorialHOMETASK\bin\Debug\FactorialHOMETASK.exe
+C:\Users\1686708\source\repos\FactorialHOMETASK\FactorialHOMETASK\bin\Debug\FactorialHOMETASK.pdb
+C:\Users\1686708\source\repos\FactorialHOMETASK\FactorialHOMETASK\obj\Debug\FactorialHOMETASK.csproj.AssemblyReference.cache
+C:\Users\1686708\source\repos\FactorialHOMETASK\FactorialHOMETASK\obj\Debug\FactorialHOMETASK.csproj.CoreCompileInputs.cache
+C:\Users\1686708\source\repos\FactorialHOMETASK\FactorialHOMETASK\obj\Debug\FactorialHOMETASK.exe
+C:\Users\1686708\source\repos\FactorialHOMETASK\FactorialHOMETASK\obj\Debug\FactorialHOMETASK.pdb
